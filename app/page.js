@@ -6,10 +6,10 @@ export default function Home() {
   return (
     <main className="min-h-screen flex items-center justify-center bg-white">
       <div className="text-center bg-white p-8 rounded-lg">
-        <h1 className="text-2xl sm:text-3xl md:text-4xl font-bold text-black mb-6">
-          지능형 얼굴
-          <br className="md:hidden" /> 가명처리 플랫폼
-        </h1>
+      <h1 className="text-2xl sm:text-3xl md:text-4xl font-bold text-black mb-6">
+  <span className="block md:inline">지능형 얼굴</span>
+  <span className="block md:inline">가명처리 플랫폼</span>
+</h1>
         <p className="text-gray-700 text-base md:text-lg leading-relaxed mb-8">
           개인정보를 안전하게 보호하면서도
           <br />

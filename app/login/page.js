@@ -10,8 +10,8 @@ export default function Home() {
         style={{ backgroundColor: "#E7FADB" }}
       >
         <Image
-          src="/dashboard.png"
-          alt="Dashboard"
+          src="/image.png"
+          alt="Image"
           width={550}
           height={550}
           className="shadow-xl rounded-2xl"
